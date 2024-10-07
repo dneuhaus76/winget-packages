@@ -54,3 +54,5 @@ Um dein eigenes Repository mit Winget zu nutzen, musst du es lokal hinzufügen:
 Sobald das Repository hinzugefügt ist, kannst du Pakete installieren, wie du es mit dem offiziellen Winget Repository tun würdest:
 >winget install MeinUnternehmen.MeineApp
 
+## z.B. In Microsoft ist es so eingerichtet
+https://github.com/microsoft/winget-pkgs/tree/master/manifests/7/7zip/7zip
