@@ -56,3 +56,7 @@ Sobald das Repository hinzugefügt ist, kannst du Pakete installieren, wie du es
 
 ## z.B. In Microsoft ist es so eingerichtet
 https://github.com/microsoft/winget-pkgs/tree/master/manifests/7/7zip/7zip
+https://github.com/thilojaeggi/WinGetty?tab=readme-ov-file
+
+# Andere Referenzen oder Tools
+https://github.com/thilojaeggi/WinGetty?tab=readme-ov-file
