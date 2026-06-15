@@ -1,0 +1,5 @@
+{
+    "PackageUrl": "https://raw.githubusercontent.com/dneuhaus76/winget-packages/main/manifests/",
+    "Version": "1.0.0",
+    "Description": "Personal winget source for 7‑Zip and future packages."
+}
